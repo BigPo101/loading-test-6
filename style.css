@@ -1,5 +1,7 @@
 .loader {
-          position: relative;
+          position: absolute;
+          left: 50%;
+          top: 50%;
           width: 120px;
           height: 90px;
           margin: 0 auto;
